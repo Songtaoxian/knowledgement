@@ -6,13 +6,16 @@ Content:
 
 Math：
 
-      /Probability and Statistics
-      /Discret Math
+    /Probability and Statistics
+    /Discret Math
 
 Machine Learning:
 
 Computer:
 
+Chemistry:
+
+    /Chinese to English
 
 Digital Human:
 
