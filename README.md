@@ -1,8 +1,18 @@
-# Knowledgement
-This is what songtaoxian knows. All the documents were transfered to HTML.
+# 西湖大学公开课
+
+延续我导**Mr. Xiu** (https://github.com/YuliangXiu) 的精神，把我手头的课程转化为**HTML**
 
 Content:
 
 Math：
 
-An Introduction wit Statistical Applications (John J. Kinney)
+      /Probability and Statistics
+      /Discret Math
+
+Machine Learning:
+
+Computer:
+
+
+Digital Human:
+
